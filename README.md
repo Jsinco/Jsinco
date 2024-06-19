@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-[This is my website](https://jsinco.dev)
-
-
-These are my most used languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jsinco&hide_progress=true&theme=dracula)](https://github.com/Jsinco/github-readme-stats)
+
+# [jsinco.dev](https://jsinco.dev)
 
 <!--
 **Jsinco/Jsinco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
