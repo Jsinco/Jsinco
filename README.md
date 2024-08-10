@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jsinco&hide_progress=true&bg_color=54DB46,89E77F,63BE59&hide_border=true)](https://github.com/Jsinco/github-readme-stats)
+## Discord: **@jsinco**
 
-# [jsinco.dev](https://jsinco.dev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jsinco&hide_progress=true&bg_color=54DB46,89E77F,63BE59&hide_border=true)](https://github.com/Jsinco/github-readme-stats)
 
 <!--
 **Jsinco/Jsinco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
