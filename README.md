@@ -4,8 +4,12 @@ I'm a developer and a student. I write in some JVM-based languages and do a lot 
 
 Check out BreweryX and Luma!
 
-<img src="./images/188527072.png" alt="BreweryX" width="400" height="400"> <img src="./images/ce9d9cecf3c22127c529ed83ba377311f35000bf.png" alt="LumaMC" width="400" height="400">
-
+<a href="https://github.com/BreweryTeam/BreweryX">
+  <img src="./images/188527072.png" alt="BreweryX" width="100" height="100">
+</a>
+<a href="https://lumamc.net">
+  <img src="./images/ce9d9cecf3c22127c529ed83ba377311f35000bf.png" alt="LumaMC" width="400" height="400">
+</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jsinco&bg_color=6272e2,695571,6272e2&hide_border=true&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=Jsinco&bg_color=6272e2,695571,6272e2&hide_border=true&layout=compact)
 
