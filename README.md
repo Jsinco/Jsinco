@@ -2,7 +2,7 @@
 
 I'm a developer and a student. I write in some JVM-based languages and do a lot of Minecraft stuff.
 
-Check out BreweryX and Luma!
+**Check out BreweryX and LumaMC!**
 
 <a href="https://github.com/BreweryTeam/BreweryX">
   <img src="./images/188527072.png" alt="BreweryX" width="100" height="100">
@@ -14,11 +14,6 @@ Check out BreweryX and Luma!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jsinco&bg_color=6272e2,695571,6272e2&hide_border=true&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=Jsinco&bg_color=6272e2,695571,6272e2&hide_border=true&layout=compact)
 
 <!--
-
-
-
-
-
 
 **Jsinco/Jsinco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
