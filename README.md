@@ -4,7 +4,7 @@ I'm a developer and a student. I write in some JVM-based languages and do a lot 
 
 Check out BreweryX and Luma!
 
-![[breweryx](https://github.com/user-attachments/assets/ce5ae821-50aa-486e-8ad2-189c6971e6a4)](https://github.com/BreweryTeam/BreweryX) ![[lumamc](https://github.com/user-attachments/assets/e4b6981e-6e8d-4589-bfeb-5508d344f945)](https://lumamc.net)
+![[breweryx](./images/188527072.png)](https://github.com/BreweryTeam/BreweryX) ![[lumamc](/images/ce9d9cecf3c22127c529ed83ba377311f35000bf.png)](https://lumamc.net)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jsinco&bg_color=6272e2,695571,6272e2&hide_border=true&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=Jsinco&bg_color=6272e2,695571,6272e2&hide_border=true&layout=compact)
