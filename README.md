@@ -7,7 +7,7 @@ I'm a developer and a student. I write in some JVM-based languages and do a lot 
 <a href="https://github.com/BreweryTeam/BreweryX">
   <img src="./images/BX_CROPPED.png" alt="BreweryX" width="100" height="100">
 </a>
-<a href="https://lumamc.net">
+<a href="https://github.com/LumaLibre">
   <img src="./images/ce9d9cecf3c22127c529ed83ba377311f35000bf.png" alt="LumaMC" width="100" height="100">
 </a>
 
